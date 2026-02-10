@@ -13,5 +13,5 @@
     { "q": "Many of the students ______ failed in the examination.", "options": ["has", "have"], "answer": 1 },
     { "q": "Most of the students ______ their time.", "options": ["waste", "wastes"], "answer": 0 },
     { "q": "A large number of workers ______ struck work.", "options": ["has", "have"], "answer": 1 },
-    { "q": "He and his friend ______ arrived.", "options": ["has", "have"], "answer": 1 },
-    
+    { "q": "He and his friend ______ arrived.", "options": ["has", "have"], "answer": 1 }
+]   

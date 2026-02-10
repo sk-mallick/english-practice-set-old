@@ -13,4 +13,5 @@
     { "q": "He ordered as if he ___ my boss.", "options": ["was", "were"], "answer": 1 },
     { "q": "The number of books ___ increasing.", "options": ["is", "are"], "answer": 0 },
     { "q": "You and I ___ good friends.", "options": ["is", "are"], "answer": 1 },
-    { "q": "The blind ___ helpless.", "options": ["is", "are"], "answer": 1 },
+    { "q": "The blind ___ helpless.", "options": ["is", "are"], "answer": 1 }
+]

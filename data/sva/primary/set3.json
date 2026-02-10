@@ -13,4 +13,5 @@
     { "q": "My friend and benefactor ______ come to see me.", "options": ["has", "have"], "answer": 0 },
     { "q": "The house, with its contents, ______ insured against fire.", "options": ["was", "were"], "answer": 0 },
     { "q": "Everybody ______ happy at the picnic.", "options": ["is", "are"], "answer": 0 },
-    { "q": "______ either of the twins present?", "options": ["was", "were"], "answer": 0 },
+    { "q": "______ either of the twins present?", "options": ["was", "were"], "answer": 0 }
+]

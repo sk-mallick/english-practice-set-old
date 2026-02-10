@@ -13,4 +13,5 @@
     { "q": "What I now need ___ mental peace.", "options": ["is", "are"], "answer": 0 },
     { "q": "India ___ produced great cricketers.", "options": ["has", "have"], "answer": 0 },
     { "q": "Two hundred rupees ___ distributed.", "options": ["was", "were"], "answer": 0 },
-    { "q": "A pair of shoes ___ in this room.", "options": ["is", "are"], "answer": 0 },
+    { "q": "A pair of shoes ___ in this room.", "options": ["is", "are"], "answer": 0 }
+]

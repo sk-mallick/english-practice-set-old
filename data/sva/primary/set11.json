@@ -13,4 +13,5 @@
     { "q": "None of those girls ___ attractive.", "options": ["was", "were"], "answer": 1 },
     { "q": "Heaven ___ us!", "options": ["help", "helps"], "answer": 0 },
     { "q": "God ___ the king.", "options": ["save", "saves"], "answer": 0 },
-    { "q": "The crown and glory of life ___ character.", "options": ["is", "are"], "answer": 0 },
+    { "q": "The crown and glory of life ___ character.", "options": ["is", "are"], "answer": 0 }
+]

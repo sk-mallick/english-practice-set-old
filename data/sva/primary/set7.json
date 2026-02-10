@@ -13,4 +13,5 @@
     { "q": "The poet and the philosopher ______ said so.", "options": ["has", "have"], "answer": 1 },
     { "q": "Rice and fish ______ my favourite dish.", "options": ["is", "are"], "answer": 0 },
     { "q": "Neither you nor he ______ honest.", "options": ["is", "are"], "answer": 0 },
-    { "q": "Either he or I ______ guilty.", "options": ["am", "is"], "answer": 0 },
+    { "q": "Either he or I ______ guilty.", "options": ["am", "is"], "answer": 0 }
+]

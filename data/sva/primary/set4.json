@@ -13,4 +13,5 @@
     { "q": "There ______ an egg on the plate.", "options": ["is", "are"], "answer": 0 },
     { "q": "Binay and Mukesh ______ clever boys.", "options": ["is", "are"], "answer": 1 },
     { "q": "Manoj, the tallest of all the students in our class, ______ clever.", "options": ["is", "are"], "answer": 0 },
-    { "q": "______ these children's mother ill?", "options": ["is", "are"], "answer": 0 },
+    { "q": "______ these children's mother ill?", "options": ["is", "are"], "answer": 0 }
+]

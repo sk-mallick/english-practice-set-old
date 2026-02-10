@@ -13,4 +13,5 @@
     { "q": "I wish he ______ the Chief Minister of Bihar.", "options": ["was", "were"], "answer": 1 },
     { "q": "It is I who ___ done this.", "options": ["has", "have"], "answer": 1 },
     { "q": "Ajay is one of those persons who ___ not accept bribes.", "options": ["do", "does"], "answer": 0 },
-    { "q": "We should not ___ beaten our brother.", "options": ["have", "has"], "answer": 0 },
+    { "q": "We should not ___ beaten our brother.", "options": ["have", "has"], "answer": 0 }
+]

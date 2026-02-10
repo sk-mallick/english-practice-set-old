@@ -13,4 +13,5 @@
     { "q": "A team of players ______ arrived.", "options": ["has", "have"], "answer": 0 },
     { "q": "Half of the mango ______ rotten.", "options": ["was", "were"], "answer": 0 },
     { "q": "Half of the mangoes ______ rotten.", "options": ["was", "were"], "answer": 1 },
-    { "q": "Your trousers ______ new.", "options": ["is", "are"], "answer": 1 },
+    { "q": "Your trousers ______ new.", "options": ["is", "are"], "answer": 1 }
+]

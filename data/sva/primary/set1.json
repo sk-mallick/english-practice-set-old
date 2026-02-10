@@ -13,5 +13,5 @@
     { "q": "All the students in our college ______ English.", "options": ["learn", "learns"], "answer": 0 },
     { "q": "The quality of the mangoes ______ not good.", "options": ["was", "were"], "answer": 0 },
     { "q": "Each of these minerals ______ found in India.", "options": ["is", "are"], "answer": 0 },
-    { "q": "Iron, as well as coal, ______ found in India.", "options": ["is", "are"], "answer": 0 },
-    
+    { "q": "Iron, as well as coal, ______ found in India.", "options": ["is", "are"], "answer": 0 }
+]

@@ -13,4 +13,5 @@
     { "q": "Mr. and Mrs. Thakur ___ in the house.", "options": ["is", "are"], "answer": 1 },
     { "q": "What ___ the latest news?", "options": ["is", "are"], "answer": 0 },
     { "q": "Half of the milk ___ been spoiled.", "options": ["has", "have"], "answer": 0 },
-    { "q": "Tendulkar is one of the players who ___ been selected for the test.", "options": ["has", "have"], "answer": 1 },
+    { "q": "Tendulkar is one of the players who ___ been selected for the test.", "options": ["has", "have"], "answer": 1 }
+]

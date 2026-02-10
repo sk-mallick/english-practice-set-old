@@ -13,4 +13,5 @@
     { "q": "One of them ______ a robber.", "options": ["is", "are"], "answer": 0 },
     { "q": "Each and every pen ______ red.", "options": ["is", "are"], "answer": 0 },
     { "q": "Each girl ______ an instrument box.", "options": ["has", "have"], "answer": 0 },
-    { "q": "Everyone of us ______ a traitor.", "options": ["is", "are"], "answer": 0 },
+    { "q": "Everyone of us ______ a traitor.", "options": ["is", "are"], "answer": 0 }
+]
